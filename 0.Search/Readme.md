@@ -107,7 +107,3 @@ maze-solver/
 ## 📝 License
 
 This project is open-source and available under the **MIT License**.
----
-
-👉 Do you want me to also add a **section explaining DFS vs BFS** (since your code has both `StackFrontier` and `QueueFrontier`)? That could make your repo look more professional.
-```
