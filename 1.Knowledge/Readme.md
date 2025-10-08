@@ -168,3 +168,17 @@ Possible enhancements to these projects:
 - Add unit tests for logical operations
 
 This collection demonstrates the fundamental principles of knowledge representation and reasoning in artificial intelligence, providing a practical foundation for building more sophisticated AI systems.
+
+## 👨‍💻 Author
+
+**Lewins Mureithi Nderitu**
+
+* 📧 Email: [mureithilewins@gmail.com](mailto:mureithilewins@gmail.com)
+* 📱 Phone: +254 112876340
+* 🌍 GitHub: [King-luiz](https://github.com/King-luiz)
+
+---
+
+## 📝 License
+
+This project is open-source and available under the **MIT License**.
