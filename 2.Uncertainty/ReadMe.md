@@ -24,14 +24,14 @@ By defining conditional probability tables (CPTs) and using probabilistic infere
 ---
 
 ## 🧱 Folder Structure
-
+```
 Bayesnet/
 │
 ├── model.py # Defines the Bayesian Network structure and relationships
 ├── inference.py # Performs probabilistic inference given some evidence
 ├── likelihood.py # Calculates the probability of specific observations
 └── sample.py # Generates random samples using rejection sampling
-
+```
 yaml
 Copy code
 
@@ -126,16 +126,16 @@ NumPy – Array operations and probability computation
 Collections – Data counting for sampling results
 
 ## 📚 References
-Harvard University CS50 AI – Lecture 2: Uncertainty
-https://cs50.harvard.edu/ai/2020/
+# Harvard University CS50 AI – Lecture 2: Uncertainty
+# https://cs50.harvard.edu/ai/2020/
 
 ## 👨‍💻 Author
-= Lewins Mureithi Nderitu
-= Web Developer & AI Learner
+# Lewins Mureithi Nderitu
+# Web Developer & AI Learner
 
-. 📞 Phone: +254 112876340
-. 📧 Email: mureithilewins@gmail.com
-. 🌐 GitHub: King-luiz
+# 📞 Phone: +254 112876340
+# 📧 Email: mureithilewins@gmail.com
+# 🌐 GitHub: King-luiz
 
 🏁 License
 This project is for educational purposes under the MIT License.
