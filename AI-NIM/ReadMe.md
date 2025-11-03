@@ -173,9 +173,9 @@ Implements the Q-learning algorithm.
 ## 🧑‍💻 Author
 
 **Lewins Mureithi Nderitu**
-** 📧 Email: [mureithilewins@gmail.com](mailto:mureithilewins@gmail.com)
-** 📞 Contact: +254 112876340
-** 💻 GitHub: [King-luiz](https://github.com/King-luiz)
+* ** 📧 Email: [mureithilewins@gmail.com](mailto:mureithilewins@gmail.com)
+* ** 📞 Contact: +254 112876340
+* ** 💻 GitHub: [King-luiz](https://github.com/King-luiz)
 
 ---
 
